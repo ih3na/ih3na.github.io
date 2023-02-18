@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "vue": "^3.2.47"
+  },
+  "devDependencies": {
+    "vue-vanta": "^0.0.1"
+  }
+}
